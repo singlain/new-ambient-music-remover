@@ -26,3 +26,5 @@ List of removed tracks:
 - Chrysopoeia
 - Rubedo
 - So Below
+
+This Resource Pack **DO NOT** remove any of new Music Discs.
