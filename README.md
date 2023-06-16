@@ -3,22 +3,26 @@ If you are in love with classic Minecraft music from C418, this resource pack is
 
 List of removed tracks:
 
+**From 1.20**
 - A Familiar Room
 - Bromeliad
 - Crescent Dunes
 - Echo in the Wind
 
+**From 1.19**
 - Ancestry
 - Aerie
 - Firebugs
 - Labyrinthine
 
+**From 1.18**
 - Stand Tall
 - Left to Bloom
 - One More Day
 - Wending
 - Infinite Amethyst
 
+**From 1.16**
 - Chrysopoeia
 - Rubedo
 - So Below
